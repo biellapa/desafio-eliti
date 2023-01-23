@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(171, 130, 209, 0.719);
+   
+}
+p{
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: max-content;
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+.ola{background-color: blueviolet;  
+    border-radius: 5px;
+    width: max-content;
+    position: relative;
+    top: 50px;
+    left: 850px;
+    
+}
+.oi{
+    position: relative;
+    top: 25px;
+    left: 20px;
+
+}
