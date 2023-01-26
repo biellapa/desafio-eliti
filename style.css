@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 body{
     background-color: rgba(171, 130, 209, 0.719);
    
@@ -7,15 +10,16 @@ p{
     border-radius: 5px;
     width: max-content;
     position: relative;
-    top: 80px;
-    left: 20px;
+    /*top: 80px;
+    left: 20px;*/
 }
 .ola{background-color: blueviolet;  
     border-radius: 5px;
     width: max-content;
     position: relative;
-    top: 50px;
-    left: 850px;
+    /*top: 50px;
+    left: 850px;*/
+    margin: px;
     
 }
 .oi{
@@ -23,4 +27,8 @@ p{
     top: 25px;
     left: 20px;
 
+}
+div{
+display: flex;
+margin: 100px;
 }
